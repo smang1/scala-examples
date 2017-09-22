@@ -1,3 +1,5 @@
+package com.examples.scala.basic
+
 
 object HelloWorld {
 
